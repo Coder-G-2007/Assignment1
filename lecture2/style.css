@@ -1,0 +1,48 @@
+/* Css boilerplate */
+/* *{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html,body{
+    height: 100%;
+    width: 100%;
+}
+
+@font-face {
+    font-family: hihi;
+    src: url(./Another\ Danger\ Slanted\ -\ Demo.otf);
+}
+h1{
+    color: brown;
+    background-color: rgb(171, 190, 171);
+    font-size: 50px;
+    font-weight: 300;
+    text-align: center;
+    text-transform: uppercase;
+    font-style: oblique;
+    margin-bottom: 10px;
+    font-family: hihi;
+}
+h2{
+   background-color: aqua; 
+   color: red;
+} */
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html,body{
+    height: 100%;
+    width: 100%;
+}
+div{
+    color:red;
+    height: 150px;
+    width: 50%;
+    background: linear-gradient(to right bottom,rgb(217, 122, 13),white,green);
+    background-image: url(https://images.unsplash.com/photo-1772289495966-ddbd08521476?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxmZWF0dXJlZC1waG90b3MtZmVlZHwzfHx8ZW58MHx8fHx8);
+    background-size: cover;
+}
