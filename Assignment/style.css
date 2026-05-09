@@ -250,7 +250,7 @@ input::placeholder{
     font-weight: 200;
     margin-right: 1px;
     font-family: 'Times New Roman', Times, serif;
-    padding:6px;
+    padding:3px;
 }
 .arrow{
     position: absolute;
