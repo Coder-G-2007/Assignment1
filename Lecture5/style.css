@@ -30,7 +30,7 @@ main{
 }
 .box3{
     background-color: blue;
-    grid-column: 2/;
+    grid-column: 1/4;
 }
 
 /* .part2{
