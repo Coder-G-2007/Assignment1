@@ -43,3 +43,4 @@ grid-template-areas:
 grid-column:1/3;
 grid-column-start:1;
 grid-column-end:3;
+grid-area:header;
