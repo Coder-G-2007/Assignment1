@@ -12,6 +12,6 @@ icon8:you can also go to find icon here
 
 objectfitcover:to fit image completely in box
 
-margin-right:-10px;leads to overlapping of images towards its left
+margin-right:-10px;leads to overlapping of images towards its left 
 
 span:it its used for highlighting a particular things like word from text in order to change its properties like font-size color etc no effect on complete text only span section get affected 
